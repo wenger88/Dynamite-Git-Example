@@ -1,5 +1,6 @@
 # Dynamite-Git-Example
 A throwaway repo for a Git tutorial
 
-LEt's learn git basics together by Team Dynamite
+LEt's learn git basics together
 
+Experimental changes to README
